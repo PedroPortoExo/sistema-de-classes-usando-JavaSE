@@ -1,0 +1,10 @@
+Nome:pedro:Idade:22:CPF:1:Plano:Golden:TEL:12:EndereÃ§o:Marituba:R$:155000.0:,Prof:Gerente:HR:12:30
+Nome:joao:Idade:25:CPF:2:Plano:Golden:TEL:8303:Endereço:aa:R$:50600.0:Prof:Medico:HR:8:30
+Nome:joel:Idade:21:CPF:3:Plano:Golden:TEL:12323:Endereço:kajhd:R$:45000.0:Prof:Medico:HR:12:30
+Nome:lucas:Idade:21:CPF:4:Plano:Golden:TEL:34:EndereÃ§o:Sp:R$:70720.0:Prof:Medico:HR:16:35
+Nome:arthur:Idade:24:CPF:5:Plano:Golden:TEL:45:Endereço:rj:R$:40900.0:Prof:Medico:HR:20:35
+Nome:jessica:Idade:20:CPF:6:Plano:Golden:TEL:234:Endereço:ksd:R$:35000.0:Prof:Assistente:HR:8:30
+Nome:lucia:Idade:21:CPF:7:Plano:Golden:TEL:123:EndereÃ§o:jds:R$:30000.0:Prof:Assistente:HR:14:30
+Nome:julia:Idade:23:CPF:8:Plano:Golden:TEL:39:EndereÃ§o:kajd:R$:40000.0:Prof:Assistente:HR:20:30
+Nome:Lucia:Idade:20:CPF:9:Plano:Silver:TEL:23942:EndereÃ§o:djwe:R$:25000.0:Prof:Assistente:HR:12:30
+Nome:pedro porto:Idade:21:CPF:846.972.885-72:Plano:Golden1:TEL:(21)99168-3554:Endereço:rua tal:R$:0.0:Prof:Medico:HR:13:00

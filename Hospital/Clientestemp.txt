@@ -1,0 +1,5 @@
+Nome:kaio:Idade:19:CPF:10:Plano:Golden:TEL:342:Endereço:ksa:R$:30200.0:Prescrição medica :Down:Cliente
+Nome:Gabriel:Idade:17:CPF:11:Plano:Silver:TEL:231:Endereço:ksds:R$:39600.0:Prescrição medica :nenhuma:Cliente
+Nome:Cris:Idade:18:CPF:12:Plano:Bronze:TEL:4952:Endereço:kasred:R$:16520.0:Prescrição medica :nenhuma:Cliente
+Nome:Pedro Cardoso:Idade:25:CPF:13:Plano:luciano huck:TEL:646:Endereço:globo:R$:779.0:Prescrição medica :TDHA:Cliente
+Nome:Doug:Idade:25:CPF:15:Plano:Pobre:TEL:53232:Endereço:rua tal:R$:1900.0:Prescrição medica :gripe:Cliente

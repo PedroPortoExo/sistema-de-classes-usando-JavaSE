@@ -1,0 +1,4 @@
+Nome:Cris:Idade:18:CPF:11:Plano:Bronze:,TEL:4952:Endereço:kasred:Nome Medico:lucas:CPF Medico:4:HR:16:45
+Nome:Pedro Cardoso:Idade:25:CPF:12:,Plano:luciano huck:TEL:646:Endereço:globo:Nome Medico:arthur:CPF Medico:5:HR:20:30
+Nome:Gabriel:Idade:17:CPF:10:Plano:Silver:TEL:231:Endereço:ksds:Nome Medico:joao:CPF Medico:2:HR:8:30
+Nome:Doug:Idade:25:CPF:15:Plano:Pobre:TEL:53232:Endereço:rua tal:Nome Medico:luciano:CPF Medico:14:HR:9:00
